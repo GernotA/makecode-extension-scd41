@@ -1,3 +1,7 @@
+Tested this great library from Sensirion as it works out of the box with the GY-SCD40 Module as well. https://www.tinytronics.nl/en/sensors/air/humidity/gy-scd40-module-co2-humidity-temperature-sensor-i2c
+Difference to SCD41 is a smaller range of ppm (SCD40: 0-2000 ppm) with declared accuracy while SCD41 goes up to 5000 ppm 
+
+
 # Sensirion SCD41 Makecode Extension
 
 Makecode extension for the Sensirion SCD41 CO2 development board connected to the micro:bit platform.
